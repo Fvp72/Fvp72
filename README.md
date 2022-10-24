@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Franz [ @Fvp72 ]
 - 👀 I’m interested in physics and python stuff
 - 🌱 I’m currently learning how to apply python and programming to finance.
-- 💞️ I’m looking to collaborate on nothing at the moment, need to learn more skills on my own.
+- 💞️ I’m not looking to collaborate on anything at the moment, need to learn more skills on my own.
 - 📫 How to reach me: shoot me an email.
 
 <!---
